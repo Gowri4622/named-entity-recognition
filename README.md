@@ -39,6 +39,9 @@ We compile the model and fit the train sets and validation sets,We plot the nece
 
 
 ```python
+# Developed By: Gowri M
+# Register Number:212220230019
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
@@ -182,7 +185,11 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
+![Screenshot_1](https://user-images.githubusercontent.com/75235455/198815416-048cb33e-66e7-4c02-b506-2025cc4a4113.png)
 
 
 ### Sample Text Prediction
+
+![Screenshot_2](https://user-images.githubusercontent.com/75235455/198815423-2a3b84e0-cdb2-4674-beba-5d8f03d290a0.png)
+
 
